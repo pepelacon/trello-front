@@ -3,11 +3,10 @@
 import { GanttChartSquare } from 'lucide-react'
 import Link from 'next/link'
 
-import { COLORS } from '@/constants/color.constants'
-
 import { LogoutButton } from './LogoutButton'
 import { MenuItem } from './MenuItem'
 import { MENU } from './menu.data'
+import { COLORS } from '@/constants/color.constants'
 
 export function Sidebar() {
 	return (
@@ -22,7 +21,7 @@ export function Sidebar() {
 						size={38}
 					/>
 					<span className='text-2xl font-bold relative'>
-						RED Planner
+						Planner
 						<span className='absolute -top-1 -right-6 text-xs opacity-40 rotate-[18deg] font-normal'>
 							beta
 						</span>
