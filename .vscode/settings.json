@@ -1,14 +1,15 @@
 {
-  "cSpell.words": [
-    "clsx",
-    "htmllessons",
-    "lucide",
-    "pangea",
-    "Parens",
-    "Pomodoro",
-    "sonner",
-    "tailwindcss",
-    "tanstack",
-    "trivago"
-  ]
+	"cSpell.words": [
+		"clsx",
+		"htmllessons",
+		"Kanban",
+		"lucide",
+		"pangea",
+		"Parens",
+		"Pomodoro",
+		"sonner",
+		"tailwindcss",
+		"tanstack",
+		"trivago"
+	]
 }
