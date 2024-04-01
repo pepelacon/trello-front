@@ -38,16 +38,7 @@ export function Sidebar() {
 				</div>
 			</div>
 			<footer className='text-xs opacity-40 font-normal text-center p-layout'>
-				2024 &copy; With love from{' '}
-				<a
-					href='https://www.youtube.com/c/redgroup/?sub_confirmation=1'
-					target='_blank'
-					rel='noreferrer'
-					className='hover:text-primary text-brand-300 transition-colors'
-				>
-					RED Group
-				</a>
-				. <br /> All rights reserved.
+				2024 &copy; With love from Daniel
 			</footer>
 		</aside>
 	)
